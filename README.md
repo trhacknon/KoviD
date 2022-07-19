@@ -512,6 +512,7 @@
     default and a 'key' can be shown:
     `$ cat /proc/kovid`
 
+
     Hiding:
     `$ echo "random key" >/proc/kovid`
 
